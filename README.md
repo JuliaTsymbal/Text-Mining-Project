@@ -97,4 +97,4 @@ Project is done
 ## Contributors
 
 * [Julia Tsymbal](https://github.com/JuliaTsymbal)
-* [Paola Cavana](https://github.com/)
+* [Paola Cavana](https://github.com/pcavana)

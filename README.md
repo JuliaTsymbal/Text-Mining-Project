@@ -15,7 +15,7 @@
 ## Abstract
 
 
-In our project, we utilized a dataset is available on the Kaggle platform, comprising BBC news articles (https://www.kaggle.com/datasets/pariza/bbc-news-summary) categorized into different topics. The goal is to perform two key text-mining tasks: text classification and text summarization (extractive and abstraction).
+In our project, we utilized a dataset is available on the Kaggle platform, comprising [BBC news articles](https://www.kaggle.com/datasets/pariza/bbc-news-summary) categorized into different topics. The goal is to perform two key text-mining tasks: text classification and text summarization (extractive and abstraction).
 
 Text classification is done using two textual representations: TF-IDF and Word2Vec. For modeling were chosen Logistic Regression, Decision tree, Random forest, SVM, and XGBoost. In the notebook 'TextClassification' you will find all the code and results.
 
@@ -28,12 +28,20 @@ Abstractive summarization is done using the model BART. In the notebook 'BART' y
 ## Requirements
 
 
-- python 3.10.7
-- contractions==0.1.73
-- gensim==4.3.0
-- ipython==8.8.0
-- matplotlib==3.6.3
+- python 3.10.12
+- matplotlib==3.7.1
 - nltk==3.8.1
+- pandas==1.5.3
+- numpy==1.23.5
+- spacy==3.6.1
+- pytextrank==3.2.5
+- rouge-score==0.1.2
+- gensim==4.3.2
+- xgboost==2.0.3
+- scikit-learn==1.2.2
+- torch==2.1.0+cu121
+- transformers==4.35.2
+
 
 
 <a id="BBC-News-data-and-text-pre-processing"></a>

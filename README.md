@@ -75,7 +75,7 @@ Then, evaluate the resulting best model on the test set concerning:
 <a id="extractive-text-summarization"></a>
 ## Extractive Text Summarization  
 
-Run `TextRank.ipynb` script which will perform text summarization using spacy and pytextrank. 
+Run `TextRank.ipynb` script which will perform text summarization using spacy and pytextrank. File `extSumm_text.csv` contains results of extractive summarization. 
 
 Then, evaluate summaries quality using 
 - Rouge1 
@@ -85,7 +85,7 @@ Then, evaluate summaries quality using
 
 <a id="abstractive-text-summarization"></a>
 ## Abstractive Text Summarization
-Run `BART.ipynb` script which will perform abstractive text summarization using the pre-trained Bart model. 
+Run `BART.ipynb` script which will perform abstractive text summarization using the pre-trained Bart model. File `BART_summarized.csv` contains results of absractive summarization. 
 
 Then, evaluate summaries quality using 
 - Rouge1

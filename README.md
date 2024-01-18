@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Abstract](#abstract)
-* [Paper]() and [Slides]()
+* [Paper](https://github.com/JuliaTsymbal/Text-Mining-Project/blob/main/ReportTM%26S.pdf) and [Slides](https://github.com/JuliaTsymbal/Text-Mining-Project/blob/main/SlideTM%26S.pdf)
 * [Requirements](#requirements)
 * [BBC News: Data and Text Pre-processing](#BBC-News-data-and-text-pre-processing)
 * [Text Classification](#text-classification)

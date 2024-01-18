@@ -43,7 +43,6 @@ Abstractive summarization is done using the model BART. In the notebook 'BART' y
 - transformers==4.35.2
 
 
-
 <a id="BBC-News-data-and-text-pre-processing"></a>
 ## BBC News: Data and Text Pre-processing
 
@@ -53,7 +52,7 @@ All code is running in Colab. Before usage make sure you have uploaded all files
 
 ### Step 1. Download and extract the dataset
 
-A dataset is available on the Kaggle platform, comprising [BBC news articles](https://www.kaggle.com/datasets/pariza/bbc-news-summary) or you can use the `archive.zip` file with all data. For convenience, we have also added an already generated csv file `raw_data.csv` for direct use for preprocessing. Run `Preprocessing.ipynb` to get clear data for text classification. Arter run you obtain `clean_data.csv` file for using it in the next steps.
+A dataset is available on the Kaggle platform, comprising [BBC news articles](https://www.kaggle.com/datasets/pariza/bbc-news-summary) or you can use the `archive.zip` file with all data. For convenience, we have also added an already generated csv file `raw_data.csv` for direct use for preprocessing. Run `Preprocessing.ipynb` to get clear data for text classification. Arter run you obtain `clean_text.csv` file for using it in the next steps.
 
 
 <a id="text-classification"></a>
